@@ -5,7 +5,7 @@ Created on Thu Sep 21 14:26:08 2023
 @author: basil
 """
 import pandas as pd
-from sklearn.preprocessing import OrdinalEncoder, MinMaxScaler
+from sklearn.preprocessing import OrdinalEncoder, StandardScaler
 
 def colToOrdinal(df, colnames):
     # Prepare l'encoder object
@@ -18,20 +18,19 @@ def colToOrdinal(df, colnames):
 
 def standardize(df):
     # Standardizes data using mixmaxscaler
-    scaler = MinMaxScaler()
+    scaler = StandardScaler()
     df_standardized = scaler.fit_transform(df)
     df_standardized = pd.DataFrame(df_standardized, columns=df.columns)
     return df_standardized
 
-def preprocess(df, categorical_features, features, target):
+def preprocess(df, categorical_features, features):
     # Encodage des données :
     df = colToOrdinal(df, categorical_features)
     
     # Séparation en features/target
-    X = df[features]
-    y = df[target]
+    df = df[features]
 
     # Standardise les données
-    X = standardize(X)
-    return X,y
+    df = standardize(df)
+    return df
     
