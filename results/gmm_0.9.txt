@@ -1,0 +1,35 @@
+Current parameters: 2, fullCurrent parameters: 2, tiedCurrent parameters: 2, diagCurrent parameters: 2, sphericalCurrent parameters: 3, fullCurrent parameters: 3, tied	Nb clusters: 3
+		0: 3541 occurrences
+		1: 20303 occurrences
+		2: 18461 occurrences
+	The average silhouette_score is: 0.1113216661574618
+	The calinski-harabasz score is: 4026.9906131803714 (the higher the better)
+	The davies-bouldin score is: 2.5850513184911104 (the lower the better)
+Current parameters: 3, diag	Nb clusters: 3
+		0: 3434 occurrences
+		1: 19677 occurrences
+		2: 19194 occurrences
+	The average silhouette_score is: 0.10578929983040818
+	The calinski-harabasz score is: 3884.64394253511 (the higher the better)
+	The davies-bouldin score is: 2.639348933201505 (the lower the better)
+Current parameters: 3, sphericalCurrent parameters: 4, fullCurrent parameters: 4, tied	Nb clusters: 4
+		0: 3473 occurrences
+		1: 17172 occurrences
+		2: 18211 occurrences
+		3: 3449 occurrences
+	The average silhouette_score is: 0.11591042530124841
+	The calinski-harabasz score is: 3964.0476317713933 (the higher the better)
+	The davies-bouldin score is: 2.296084568132524 (the lower the better)
+Current parameters: 4, diag	Nb clusters: 4
+		0: 3559 occurrences
+		1: 16405 occurrences
+		2: 17956 occurrences
+		3: 4385 occurrences
+	The average silhouette_score is: 0.10534574656874304
+	The calinski-harabasz score is: 3732.6435287730574 (the higher the better)
+	The davies-bouldin score is: 2.3990580229487826 (the lower the better)
+Current parameters: 4, sphericalCurrent parameters: 5, fullCurrent parameters: 5, tied	Nb clusters: 5
+	The average silhouette_score is: 0.12408605771390989
+	The calinski-harabasz score is: 4039.8181049304503 (the higher the better)
+	The davies-bouldin score is: 2.117145949513701 (the lower the better)
+Current parameters: 5, diagCurrent parameters: 5, spherical

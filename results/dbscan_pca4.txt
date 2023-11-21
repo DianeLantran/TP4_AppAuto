@@ -1,0 +1,69 @@
+Current parameters: 0.1, 2
+Current parameters: 0.1, 3
+Current parameters: 0.1, 4
+Current parameters: 0.1, 5
+Current parameters: 0.1, 6
+Current parameters: 0.1, 7
+Current parameters: 0.1, 8
+Current parameters: 0.5, 2
+Current parameters: 0.5, 3
+Current parameters: 0.5, 4
+Current parameters: 0.5, 5
+Current parameters: 0.5, 6
+	Nb clusters: 10
+	The average silhouette_score is: 0.11856954755504606
+	The calinski-harabasz score is: 125.48901260996644 (the higher the better)
+	The davies-bouldin score is: 1.463141446613658 (the lower the better)
+
+Current parameters: 0.5, 7
+Current parameters: 0.5, 8
+	Nb clusters: 6
+	The average silhouette_score is: 0.23507453886855853
+	The calinski-harabasz score is: 273.872878265557 (the higher the better)
+	The davies-bouldin score is: 1.6384812047392334 (the lower the better)
+
+Current parameters: 1, 2
+	Nb clusters: 4
+		-1: 11 occurrences
+		0: 42289 occurrences
+		1: 3 occurrences
+		2: 2 occurrences
+	The average silhouette_score is: 0.3909100189387085
+	The calinski-harabasz score is: 33.23895936504049 (the higher the better)
+	The davies-bouldin score is: 0.7851345300577313 (the lower the better)
+
+Current parameters: 1, 3
+	Nb clusters: 3
+		-1: 13 occurrences
+		0: 42289 occurrences
+		1: 3 occurrences
+	The average silhouette_score is: 0.46339448158060026
+	The calinski-harabasz score is: 41.178526063216424 (the higher the better)
+	The davies-bouldin score is: 1.3173446991495188 (the lower the better)
+
+Current parameters: 1, 4
+Current parameters: 1, 5
+Current parameters: 1, 6
+Current parameters: 1, 7
+Current parameters: 1, 8
+Current parameters: 1.25, 2
+Current parameters: 1.25, 3
+Current parameters: 1.25, 4
+Current parameters: 1.25, 5
+Current parameters: 1.25, 6
+Current parameters: 1.25, 7
+Current parameters: 1.25, 8
+Current parameters: 1.5, 2
+Current parameters: 1.5, 3
+Current parameters: 1.5, 4
+Current parameters: 1.5, 5
+Current parameters: 1.5, 6
+Current parameters: 1.5, 7
+Current parameters: 1.5, 8
+Current parameters: 2, 2
+Current parameters: 2, 3
+Current parameters: 2, 4
+Current parameters: 2, 5
+Current parameters: 2, 6
+Current parameters: 2, 7
+Current parameters: 2, 8

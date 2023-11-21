@@ -1,0 +1,190 @@
+Current parameters: 2, arpack, nearest_neighbors, 2Current parameters: 2, arpack, nearest_neighbors, 5Current parameters: 2, arpack, nearest_neighbors, 10	Nb clusters: 2
+		0: 18062 occurrences
+		1: 24243 occurrences
+	The average silhouette_score is: 0.34597365030390714
+	The calinski-harabasz score is: 22824.772385314158 (the higher the better)
+	The davies-bouldin score is: 1.1445936646735324 (the lower the better)
+Current parameters: 2, arpack, nearest_neighbors, 25	Nb clusters: 2
+		0: 23319 occurrences
+		1: 18986 occurrences
+	The average silhouette_score is: 0.3511029411981397
+	The calinski-harabasz score is: 23302.79425269996 (the higher the better)
+	The davies-bouldin score is: 1.1470240601043444 (the lower the better)
+Current parameters: 2, arpack, nearest_neighbors, 50	Nb clusters: 2
+		0: 23027 occurrences
+		1: 19278 occurrences
+	The average silhouette_score is: 0.35271742272388906
+	The calinski-harabasz score is: 23414.187308231394 (the higher the better)
+	The davies-bouldin score is: 1.147777337163606 (the lower the better)
+Current parameters: 2, arpack, rbf, 2Current parameters: 2, arpack, rbf, 5Current parameters: 2, arpack, rbf, 10Current parameters: 2, arpack, rbf, 25Current parameters: 2, arpack, rbf, 50Current parameters: 2, lobpcg, nearest_neighbors, 2Current parameters: 2, lobpcg, nearest_neighbors, 5Current parameters: 2, lobpcg, nearest_neighbors, 10	Nb clusters: 2
+		0: 27618 occurrences
+		1: 14687 occurrences
+	The average silhouette_score is: 0.3397578336988882
+	The calinski-harabasz score is: 21465.38454476759 (the higher the better)
+	The davies-bouldin score is: 1.1223764898440445 (the lower the better)
+Current parameters: 2, lobpcg, nearest_neighbors, 25	Nb clusters: 2
+		0: 27244 occurrences
+		1: 15061 occurrences
+	The average silhouette_score is: 0.3350814860219259
+	The calinski-harabasz score is: 21437.6288320786 (the higher the better)
+	The davies-bouldin score is: 1.1186374643466492 (the lower the better)
+Current parameters: 2, lobpcg, nearest_neighbors, 50	Nb clusters: 2
+		0: 25750 occurrences
+		1: 16555 occurrences
+	The average silhouette_score is: 0.33808494576374376
+	The calinski-harabasz score is: 21919.595492516193 (the higher the better)
+	The davies-bouldin score is: 1.1338318180191413 (the lower the better)
+Current parameters: 2, lobpcg, rbf, 2Current parameters: 2, lobpcg, rbf, 5Current parameters: 2, lobpcg, rbf, 10Current parameters: 2, lobpcg, rbf, 25Current parameters: 2, lobpcg, rbf, 50Current parameters: 2, amg, nearest_neighbors, 2Current parameters: 2, amg, nearest_neighbors, 5Current parameters: 2, amg, nearest_neighbors, 10	Nb clusters: 2
+		0: 23348 occurrences
+		1: 18957 occurrences
+	The average silhouette_score is: 0.34887145752458854
+	The calinski-harabasz score is: 23150.52380883218 (the higher the better)
+	The davies-bouldin score is: 1.1526509408631074 (the lower the better)
+Current parameters: 2, amg, nearest_neighbors, 25	Nb clusters: 2
+		0: 18361 occurrences
+		1: 23944 occurrences
+	The average silhouette_score is: 0.34506643850789354
+	The calinski-harabasz score is: 22513.348815973146 (the higher the better)
+	The davies-bouldin score is: 1.1526672024469058 (the lower the better)
+Current parameters: 2, amg, nearest_neighbors, 50	Nb clusters: 2
+		0: 19065 occurrences
+		1: 23240 occurrences
+	The average silhouette_score is: 0.3515052103848172
+	The calinski-harabasz score is: 23301.999025019628 (the higher the better)
+	The davies-bouldin score is: 1.1475281972639748 (the lower the better)
+Current parameters: 2, amg, rbf, 2Current parameters: 2, amg, rbf, 5Current parameters: 2, amg, rbf, 10Current parameters: 2, amg, rbf, 25Current parameters: 2, amg, rbf, 50Current parameters: 3, arpack, nearest_neighbors, 2Current parameters: 3, arpack, nearest_neighbors, 5Current parameters: 3, arpack, nearest_neighbors, 10	Nb clusters: 3
+		0: 13263 occurrences
+		1: 15997 occurrences
+		2: 13045 occurrences
+	The average silhouette_score is: 0.38586726116522096
+	The calinski-harabasz score is: 31569.61614854107 (the higher the better)
+	The davies-bouldin score is: 0.8490588756375247 (the lower the better)
+Current parameters: 3, arpack, nearest_neighbors, 25	Nb clusters: 3
+		0: 13819 occurrences
+		1: 15761 occurrences
+		2: 12725 occurrences
+	The average silhouette_score is: 0.38783682653605694
+	The calinski-harabasz score is: 31929.077015442075 (the higher the better)
+	The davies-bouldin score is: 0.8490494016763267 (the lower the better)
+Current parameters: 3, arpack, nearest_neighbors, 50	Nb clusters: 3
+		0: 13940 occurrences
+		1: 12754 occurrences
+		2: 15611 occurrences
+	The average silhouette_score is: 0.387728732160081
+	The calinski-harabasz score is: 31956.338764262888 (the higher the better)
+	The davies-bouldin score is: 0.8508439957144702 (the lower the better)
+Current parameters: 3, arpack, rbf, 2Current parameters: 3, arpack, rbf, 5Current parameters: 3, arpack, rbf, 10Current parameters: 3, arpack, rbf, 25Current parameters: 3, arpack, rbf, 50Current parameters: 3, lobpcg, nearest_neighbors, 2Current parameters: 3, lobpcg, nearest_neighbors, 5Current parameters: 3, lobpcg, nearest_neighbors, 10	Nb clusters: 3
+		0: 15605 occurrences
+		1: 12403 occurrences
+		2: 14297 occurrences
+	The average silhouette_score is: 0.31670746541967076
+	The calinski-harabasz score is: 24390.70397526585 (the higher the better)
+	The davies-bouldin score is: 0.9803301002355914 (the lower the better)
+Current parameters: 3, lobpcg, nearest_neighbors, 25	Nb clusters: 3
+		0: 14411 occurrences
+		1: 13459 occurrences
+		2: 14435 occurrences
+	The average silhouette_score is: 0.38938303395571533
+	The calinski-harabasz score is: 32503.151508474108 (the higher the better)
+	The davies-bouldin score is: 0.8503996968857175 (the lower the better)
+Current parameters: 3, lobpcg, nearest_neighbors, 50	Nb clusters: 3
+		0: 14146 occurrences
+		1: 13422 occurrences
+		2: 14737 occurrences
+	The average silhouette_score is: 0.38865432304305364
+	The calinski-harabasz score is: 32338.659965175415 (the higher the better)
+	The davies-bouldin score is: 0.8489218605188521 (the lower the better)
+Current parameters: 3, lobpcg, rbf, 2Current parameters: 3, lobpcg, rbf, 5Current parameters: 3, lobpcg, rbf, 10Current parameters: 3, lobpcg, rbf, 25Current parameters: 3, lobpcg, rbf, 50Current parameters: 3, amg, nearest_neighbors, 2Current parameters: 3, amg, nearest_neighbors, 5Current parameters: 3, amg, nearest_neighbors, 10	Nb clusters: 3
+		0: 12981 occurrences
+		1: 16723 occurrences
+		2: 12601 occurrences
+	The average silhouette_score is: 0.38609616081000603
+	The calinski-harabasz score is: 31432.80317710733 (the higher the better)
+	The davies-bouldin score is: 0.8441749932409569 (the lower the better)
+Current parameters: 3, amg, nearest_neighbors, 25	Nb clusters: 3
+		0: 15397 occurrences
+		1: 12632 occurrences
+		2: 14276 occurrences
+	The average silhouette_score is: 0.3858471244882024
+	The calinski-harabasz score is: 31708.47893564417 (the higher the better)
+	The davies-bouldin score is: 0.8574096779545165 (the lower the better)
+Current parameters: 3, amg, nearest_neighbors, 50	Nb clusters: 3
+		0: 15481 occurrences
+		1: 12737 occurrences
+		2: 14087 occurrences
+	The average silhouette_score is: 0.3870991233703895
+	The calinski-harabasz score is: 31924.207585127184 (the higher the better)
+	The davies-bouldin score is: 0.8541033209785184 (the lower the better)
+Current parameters: 3, amg, rbf, 2Current parameters: 3, amg, rbf, 5Current parameters: 3, amg, rbf, 10Current parameters: 3, amg, rbf, 25Current parameters: 3, amg, rbf, 50Current parameters: 4, arpack, nearest_neighbors, 2Current parameters: 4, arpack, nearest_neighbors, 5Current parameters: 4, arpack, nearest_neighbors, 10	Nb clusters: 4
+		0: 7414 occurrences
+		1: 9323 occurrences
+		2: 11087 occurrences
+		3: 14481 occurrences
+	The average silhouette_score is: 0.34619836282301714
+	The calinski-harabasz score is: 29428.873713589972 (the higher the better)
+	The davies-bouldin score is: 0.8679010177808459 (the lower the better)
+Current parameters: 4, arpack, nearest_neighbors, 25	Nb clusters: 4
+		0: 13888 occurrences
+		1: 9469 occurrences
+		2: 7313 occurrences
+		3: 11635 occurrences
+	The average silhouette_score is: 0.34803931445440234
+	The calinski-harabasz score is: 29764.72276287585 (the higher the better)
+	The davies-bouldin score is: 0.8688587475142964 (the lower the better)
+Current parameters: 4, arpack, nearest_neighbors, 50	Nb clusters: 4
+		0: 13843 occurrences
+		1: 9414 occurrences
+		2: 11713 occurrences
+		3: 7335 occurrences
+	The average silhouette_score is: 0.3483061545631747
+	The calinski-harabasz score is: 29807.03547014156 (the higher the better)
+	The davies-bouldin score is: 0.8691977373683075 (the lower the better)
+Current parameters: 4, arpack, rbf, 2Current parameters: 4, arpack, rbf, 5Current parameters: 4, arpack, rbf, 10Current parameters: 4, arpack, rbf, 25Current parameters: 4, arpack, rbf, 50Current parameters: 4, lobpcg, nearest_neighbors, 2Current parameters: 4, lobpcg, nearest_neighbors, 5Current parameters: 4, lobpcg, nearest_neighbors, 10	Nb clusters: 4
+		0: 13127 occurrences
+		1: 8993 occurrences
+		2: 8760 occurrences
+		3: 11425 occurrences
+	The average silhouette_score is: 0.34826205122391984
+	The calinski-harabasz score is: 29116.91630974351 (the higher the better)
+	The davies-bouldin score is: 0.9350508581212519 (the lower the better)
+Current parameters: 4, lobpcg, nearest_neighbors, 25	Nb clusters: 4
+		0: 11772 occurrences
+		1: 8101 occurrences
+		2: 8751 occurrences
+		3: 13681 occurrences
+	The average silhouette_score is: 0.3393890731977973
+	The calinski-harabasz score is: 26411.31574184178 (the higher the better)
+	The davies-bouldin score is: 0.9643812996977732 (the lower the better)
+Current parameters: 4, lobpcg, nearest_neighbors, 50	Nb clusters: 4
+		0: 12680 occurrences
+		1: 8980 occurrences
+		2: 11441 occurrences
+		3: 9204 occurrences
+	The average silhouette_score is: 0.34513669433962996
+	The calinski-harabasz score is: 28112.978583386735 (the higher the better)
+	The davies-bouldin score is: 0.9316218752233589 (the lower the better)
+Current parameters: 4, lobpcg, rbf, 2Current parameters: 4, lobpcg, rbf, 5Current parameters: 4, lobpcg, rbf, 10Current parameters: 4, lobpcg, rbf, 25Current parameters: 4, lobpcg, rbf, 50Current parameters: 4, amg, nearest_neighbors, 2Current parameters: 4, amg, nearest_neighbors, 5Current parameters: 4, amg, nearest_neighbors, 10	Nb clusters: 4
+		0: 13528 occurrences
+		1: 11960 occurrences
+		2: 8148 occurrences
+		3: 8669 occurrences
+	The average silhouette_score is: 0.3317579795385116
+	The calinski-harabasz score is: 27870.18794992223 (the higher the better)
+	The davies-bouldin score is: 0.945834733996613 (the lower the better)
+Current parameters: 4, amg, nearest_neighbors, 25	Nb clusters: 4
+		0: 13895 occurrences
+		1: 11707 occurrences
+		2: 7111 occurrences
+		3: 9592 occurrences
+	The average silhouette_score is: 0.34779372505609174
+	The calinski-harabasz score is: 29739.54520466594 (the higher the better)
+	The davies-bouldin score is: 0.8667480609024555 (the lower the better)
+Current parameters: 4, amg, nearest_neighbors, 50	Nb clusters: 4
+		0: 11686 occurrences
+		1: 13810 occurrences
+		2: 7309 occurrences
+		3: 9500 occurrences
+	The average silhouette_score is: 0.34793813956978886
+	The calinski-harabasz score is: 29774.440470236663 (the higher the better)
+	The davies-bouldin score is: 0.8693387959361241 (the lower the better)
+Current parameters: 4, amg, rbf, 2Current parameters: 4, amg, rbf, 5Current parameters: 4, amg, rbf, 10Current parameters: 4, amg, rbf, 25Current parameters: 4, amg, rbf, 50Current parameters: 5, arpack, nearest_neighbors, 2

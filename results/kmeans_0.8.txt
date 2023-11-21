@@ -1,0 +1,114 @@
+For 2 clusters:
+	Nb clusters: 2
+		0: 10263 occurrences
+		1: 32042 occurrences
+	The average silhouette_score is: 0.11359246859756122
+	The calinski-harabasz score is: 4023.6947447605908 (the higher the better)
+	The davies-bouldin score is: 2.7044126784700375 (the lower the better)
+For 3 clusters:
+	Nb clusters: 3
+		0: 6393 occurrences
+		1: 17760 occurrences
+		2: 18152 occurrences
+	The average silhouette_score is: 0.10612240410615323
+	The calinski-harabasz score is: 4220.6135654470545 (the higher the better)
+	The davies-bouldin score is: 2.5668696551189423 (the lower the better)
+For 4 clusters:
+	Nb clusters: 4
+		0: 4863 occurrences
+		1: 16175 occurrences
+		2: 9151 occurrences
+		3: 12116 occurrences
+	The average silhouette_score is: 0.11321484295292254
+	The calinski-harabasz score is: 4154.460396282288 (the higher the better)
+	The davies-bouldin score is: 2.265056218761467 (the lower the better)
+For 5 clusters:
+	Nb clusters: 5
+	The average silhouette_score is: 0.12451881283816439
+	The calinski-harabasz score is: 4322.863393625026 (the higher the better)
+	The davies-bouldin score is: 2.009985900506348 (the lower the better)
+For 6 clusters:
+	Nb clusters: 6
+	The average silhouette_score is: 0.1257442525496221
+	The calinski-harabasz score is: 4296.904389244054 (the higher the better)
+	The davies-bouldin score is: 1.864124523548455 (the lower the better)
+For 7 clusters:
+	Nb clusters: 7
+	The average silhouette_score is: 0.1325786222454983
+	The calinski-harabasz score is: 4122.691237993738 (the higher the better)
+	The davies-bouldin score is: 1.9146041147643944 (the lower the better)
+For 8 clusters:
+	Nb clusters: 8
+	The average silhouette_score is: 0.12257447035209659
+	The calinski-harabasz score is: 4004.475020632196 (the higher the better)
+	The davies-bouldin score is: 1.7128060404448098 (the lower the better)
+For 9 clusters:
+	Nb clusters: 9
+	The average silhouette_score is: 0.12510424562882586
+	The calinski-harabasz score is: 4010.826746431566 (the higher the better)
+	The davies-bouldin score is: 1.6418062528197004 (the lower the better)
+For 10 clusters:
+	Nb clusters: 10
+	The average silhouette_score is: 0.12853571459837643
+	The calinski-harabasz score is: 3811.9347185337833 (the higher the better)
+	The davies-bouldin score is: 1.6930781081216684 (the lower the better)
+For 11 clusters:
+	Nb clusters: 11
+	The average silhouette_score is: 0.12315133016900386
+	The calinski-harabasz score is: 3633.0265518436186 (the higher the better)
+	The davies-bouldin score is: 1.6967167287932552 (the lower the better)
+For 12 clusters:
+	Nb clusters: 12
+	The average silhouette_score is: 0.1322836454079286
+	The calinski-harabasz score is: 3469.390459166026 (the higher the better)
+	The davies-bouldin score is: 1.8178334031991235 (the lower the better)
+For 13 clusters:
+	Nb clusters: 13
+	The average silhouette_score is: 0.12814846018362808
+	The calinski-harabasz score is: 3426.1150859468144 (the higher the better)
+	The davies-bouldin score is: 1.7825863648540843 (the lower the better)
+For 14 clusters:
+	Nb clusters: 14
+	The average silhouette_score is: 0.13311626394778528
+	The calinski-harabasz score is: 3322.6268971373447 (the higher the better)
+	The davies-bouldin score is: 1.7642936977183505 (the lower the better)
+For 15 clusters:
+	Nb clusters: 15
+	The average silhouette_score is: 0.13704635939028967
+	The calinski-harabasz score is: 3320.4765776900117 (the higher the better)
+	The davies-bouldin score is: 1.6571272818097038 (the lower the better)
+For 16 clusters:
+	Nb clusters: 16
+	The average silhouette_score is: 0.1372122752204155
+	The calinski-harabasz score is: 3222.4060384171084 (the higher the better)
+	The davies-bouldin score is: 1.659801132864303 (the lower the better)
+For 25 clusters:
+	Nb clusters: 25
+	The average silhouette_score is: 0.1404358416283899
+	The calinski-harabasz score is: 2610.9357507226923 (the higher the better)
+	The davies-bouldin score is: 1.7074309249545883 (the lower the better)
+For 35 clusters:
+	Nb clusters: 35
+	The average silhouette_score is: 0.1424323478471177
+	The calinski-harabasz score is: 2240.4168473834015 (the higher the better)
+	The davies-bouldin score is: 1.6400571590023874 (the lower the better)
+For 45 clusters:
+	Nb clusters: 45
+	The average silhouette_score is: 0.13833789058896934
+	The calinski-harabasz score is: 1978.7404653797205 (the higher the better)
+	The davies-bouldin score is: 1.593900967165462 (the lower the better)
+For 100 clusters:
+	Nb clusters: 100
+	The average silhouette_score is: 0.13505795511375948
+	The calinski-harabasz score is: 1315.120997581171 (the higher the better)
+	The davies-bouldin score is: 1.5615918338435142 (the lower the better)
+For 250 clusters:
+	Nb clusters: 250
+	The average silhouette_score is: 0.13738949348379745
+	The calinski-harabasz score is: 790.6001760311726 (the higher the better)
+	The davies-bouldin score is: 1.514661281981891 (the lower the better)
+For 500 clusters:
+	Nb clusters: 500
+	The average silhouette_score is: 0.13635109937788123
+	The calinski-harabasz score is: 533.2146081830149 (the higher the better)
+	The davies-bouldin score is: 1.4893112555308667 (the lower the better)
