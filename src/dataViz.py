@@ -14,10 +14,8 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 
 # Import
-df1 = pd.read_csv("data/unpopular_songs.csv", sep=',')
-colNames1 = df1.columns.tolist()
+df = pd.read_csv("data/unpopular_songs.csv", sep=',')
+colNames = df.columns.tolist()
 
-df2 = pd.read_csv("data/z_genre_of_artists.csv", sep=',')
-colNames2 = df2.columns.tolist()
 
 # fonctions pour générer les graphs

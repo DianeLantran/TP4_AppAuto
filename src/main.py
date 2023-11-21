@@ -16,6 +16,6 @@ features = df1.columns.difference(["type", "id", "uri", "track_href",
                                    "duration_ms"])
 categorical_cols = ["genre"]
 # Preprocessing
-df = prep.preprocess(df1, categorical_cols, features)
+df = prep.preprocess(df, categorical_cols, features)
 
 results = clustering.cluster(df)

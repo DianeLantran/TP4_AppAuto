@@ -13,16 +13,11 @@ import dataViz as dv
 import seaborn as sns
 
 # Import
-FILE_PATH1 = "data/unpopular_songs.csv"
-DATASET1 = pd.read_csv(FILE_PATH1, sep=',')
+FILE_PATH = "data/unpopular_songs.csv"
+DATASET = pd.read_csv(FILE_PATH, sep=',')
 
-description1 = DATASET1.describe()
-description1.to_markdown('description_songs.md')
+description = DATASET.describe()
+description.to_markdown('description_songs.md')
 
-FILE_PATH2 = "data/z_genre_of_artists.csv"
-DATASET2 = pd.read_csv(FILE_PATH2, sep=',')
-
-description2 = DATASET2.describe()
-description2.to_markdown('description_genre.md')
 
 # ajout des fonctions pour générer les graphs
