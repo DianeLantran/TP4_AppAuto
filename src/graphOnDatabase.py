@@ -13,11 +13,18 @@ import dataViz as dv
 import seaborn as sns
 
 # Import
-FILE_PATH = "data/unpopular_songs.csv"
-DATASET = pd.read_csv(FILE_PATH, sep=',')
+FILE_PATH1 = "data/genres_v2.csv"
+df = pd.read_csv(FILE_PATH1, sep=',')
 
-description = DATASET.describe()
+description = df.describe()
 description.to_markdown('description_songs.md')
 
 
 # ajout des fonctions pour générer les graphs
+# dv.energyDanceability()
+# dv.keyMode()
+# dv.energyValence()
+
+## A réparer
+# dv.boxValMode()
+#dv.instrumentalnessMoyTempo()
