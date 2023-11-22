@@ -20,11 +20,12 @@ description = df.describe()
 description.to_markdown('description_songs.md')
 
 
-# ajout des fonctions pour générer les graphs
-# dv.energyDanceability()
-# dv.keyMode()
-# dv.energyValence()
-
-## A réparer
-# dv.boxValMode()
-#dv.instrumentalnessMoyTempo()
+## corrélation des données entre elles
+dv.energyDanceability()
+dv.keyMode()
+dv.energyValence()
+dv.boxDurationMode()
+dv.instrumentalnessMoyTempo()
+dv.evolutionMoyDureeParInstru()
+dv.evolutionMoyDureeParSpeech()
+dv.moyInstruParAcous()
